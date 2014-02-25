@@ -81,7 +81,7 @@
         },
         "tabbed_attr" : {"type" : "string", "required" : true}
       }
-    }  ,
+    },
     {
       "title" : "Stageprompt journey specific properties",
       "properties" : {
